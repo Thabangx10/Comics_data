@@ -1,6 +1,7 @@
 {
     "comics": [
       {
+        "id" : "1",
         "title": "Saga",
         "publisher": "Image Comics",
         "year": 2012,
@@ -12,6 +13,7 @@
         "awards": ["Hugo Award for Best Graphic Story", "Eisner Award for Best Continuing Series"]
       },
       {
+        "id": "2",
         "title": "Batman: The Court of Owls",
         "publisher": "DC Comics",
         "year": 2011,
@@ -23,6 +25,7 @@
         "awards": ["Eisner Award for Best New Series"]
       },
       {
+        "id": "3",
         "title": "The Walking Dead",
         "publisher": "Image Comics",
         "year": 2003,
@@ -34,6 +37,7 @@
         "awards": ["Eisner Award for Best Continuing Series"]
       },
       {
+        "id": "4",
         "title": "Y: The Last Man",
         "publisher": "Vertigo (DC Comics)",
         "year": 2002,
@@ -45,6 +49,7 @@
         "awards": ["Eisner Award for Best Continuing Series"]
       },
       {
+        "id": "5",
         "title": "Watchmen",
         "publisher": "DC Comics",
         "year": 1986,
@@ -56,6 +61,7 @@
         "awards": ["Hugo Award for Best Graphic Story", "Eisner Award for Best Finite Series"]
       },
       {
+        "id": "6",
         "title": "Sandman",
         "publisher": "Vertigo (DC Comics)",
         "year": 1989,
@@ -67,6 +73,7 @@
         "awards": ["Hugo Award for Best Graphic Story", "Eisner Award for Best Continuing Series"]
       },
       {
+        "id": "7",
         "title": "Ms. Marvel (2014)",
         "publisher": "Marvel Comics",
         "year": 2014,
@@ -78,6 +85,7 @@
         "awards": ["Eisner Award for Best New Series"]
       },
       {
+        "id": "8",
         "title": "The Umbrella Academy",
         "publisher": "Dark Horse Comics",
         "year": 2007,
@@ -89,6 +97,7 @@
         "awards": ["Eisner Award for Best Finite Series"]
       },
       {
+        "id": "9",
         "title": "Astro City",
         "publisher": "Vertigo (DC Comics)",
         "year": 1995,
@@ -100,6 +109,7 @@
         "awards": ["Eisner Award for Best Continuing Series"]
       },
       {
+        "id": "10",
         "title": "Fables",
         "publisher": "Vertigo (DC Comics)",
         "year": 2002,
