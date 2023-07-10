@@ -7,10 +7,10 @@
         "year": 2012,
         "writer": "Brian K. Vaughan",
         "artist": "Fiona Staples",
-        "genre": ["Fantasy", "Science Fiction"],
+        "genre": "Fantasy",
         "rating": 4.8,
         "summary": "A sweeping space opera following the intergalactic adventures of a young family on the run.",
-        "awards": ["Hugo Award for Best Graphic Story", "Eisner Award for Best Continuing Series"]
+        "awards": "Hugo Award for Best Graphic Story"
       },
       {
         "id": "2",
@@ -19,10 +19,10 @@
         "year": 2011,
         "writer": "Scott Snyder",
         "artist": "Greg Capullo",
-        "genre": ["Superhero", "Mystery"],
+        "genre": "Superhero",
         "rating": 4.6,
         "summary": "Batman discovers a secret society in Gotham City that has been controlling it from the shadows.",
-        "awards": ["Eisner Award for Best New Series"]
+        "awards": "Eisner Award for Best New Series"
       },
       {
         "id": "3",
@@ -31,10 +31,10 @@
         "year": 2003,
         "writer": "Robert Kirkman",
         "artist": "Tony Moore, Charlie Adlard",
-        "genre": ["Horror", "Survival"],
+        "genre": "Horror",
         "rating": 4.5,
         "summary": "A post-apocalyptic tale following a group of survivors trying to stay alive in a world overrun by zombies.",
-        "awards": ["Eisner Award for Best Continuing Series"]
+        "awards": "Eisner Award for Best Continuing Series"
       },
       {
         "id": "4",
@@ -43,10 +43,10 @@
         "year": 2002,
         "writer": "Brian K. Vaughan",
         "artist": "Pia Guerra",
-        "genre": ["Dystopian", "Adventure"],
+        "genre": "Dystopian",
         "rating": 4.7,
         "summary": "The story of Yorick Brown, the last surviving male human on Earth after a mysterious plague wipes out all other males.",
-        "awards": ["Eisner Award for Best Continuing Series"]
+        "awards": "Eisner Award for Best Continuing Series"
       },
       {
         "id": "5",
@@ -55,10 +55,10 @@
         "year": 1986,
         "writer": "Alan Moore",
         "artist": "Dave Gibbons",
-        "genre": ["Superhero", "Mystery"],
+        "genre": "Superhero",
         "rating": 4.9,
         "summary": "A dark and complex deconstruction of superhero tropes set in an alternate version of the United States.",
-        "awards": ["Hugo Award for Best Graphic Story", "Eisner Award for Best Finite Series"]
+        "awards": "Hugo Award for Best Graphic Story"
       },
       {
         "id": "6",
@@ -67,10 +67,10 @@
         "year": 1989,
         "writer": "Neil Gaiman",
         "artist": "Various",
-        "genre": ["Fantasy", "Horror"],
+        "genre": "Fantasy",
         "rating": 4.8,
         "summary": "The story of Morpheus, the Lord of Dreams, and his interactions with various supernatural beings.",
-        "awards": ["Hugo Award for Best Graphic Story", "Eisner Award for Best Continuing Series"]
+        "awards": "Hugo Award for Best Graphic Story"
       },
       {
         "id": "7",
@@ -79,10 +79,10 @@
         "year": 2014,
         "writer": "G. Willow Wilson",
         "artist": "Adrian Alphona",
-        "genre": ["Superhero", "Coming-of-age"],
+        "genre": "Superhero",
         "rating": 4.6,
         "summary": "Kamala Khan, a Pakistani-American teenager, discovers her superhuman abilities and takes on the mantle of Ms. Marvel.",
-        "awards": ["Eisner Award for Best New Series"]
+        "awards": "Eisner Award for Best New Series"
       },
       {
         "id": "8",
@@ -91,10 +91,10 @@
         "year": 2007,
         "writer": "Gerard Way",
         "artist": "Gabriel Bá",
-        "genre": ["Superhero", "Adventure"],
+        "genre": "Superhero",
         "rating": 4.7,
         "summary": "A dysfunctional family of superpowered individuals reunites to investigate their father's mysterious death.",
-        "awards": ["Eisner Award for Best Finite Series"]
+        "awards": "Eisner Award for Best Finite Series"
       },
       {
         "id": "9",
@@ -103,10 +103,10 @@
         "year": 1995,
         "writer": "Kurt Busiek",
         "artist": "Brent Anderson",
-        "genre": ["Superhero", "Drama"],
+        "genre": "Superhero",
         "rating": 4.6,
         "summary": "An anthology series that explores the lives of both ordinary people and superheroes in the fictional city of Astro City.",
-        "awards": ["Eisner Award for Best Continuing Series"]
+        "awards": "Eisner Award for Best Continuing Series"
       },
       {
         "id": "10",
@@ -115,10 +115,10 @@
         "year": 2002,
         "writer": "Bill Willingham",
         "artist": "Mark Buckingham",
-        "genre": ["Fantasy", "Mystery"],
+        "genre": "Fantasy",
         "rating": 4.5,
         "summary": "Characters from fairy tales and folklore are forced to live in modern-day New York City after being exiled from their Homelands.",
-        "awards": ["Eisner Award for Best New Series"]
+        "awards": "Eisner Award for Best New Series"
       }
     ]
   }
